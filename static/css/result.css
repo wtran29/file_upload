@@ -1,0 +1,17 @@
+p {
+	font-size: 28px;
+	color: white;
+	border: 2px solid black;
+	width: fit-content;
+	padding: 10px;
+	margin: 25px;
+}
+
+.green {
+	background: green;
+}
+
+.red {
+	background: red;
+
+}
